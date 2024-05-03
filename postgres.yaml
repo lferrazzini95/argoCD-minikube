@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://charts.bitnami.com/bitnamicharts
+    repoURL: https://charts.bitnami.com/bitnamicharts/postgres
     chart: postgresql
     targetRevision: 16.2.0
     helm:
