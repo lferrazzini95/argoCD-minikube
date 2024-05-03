@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://charts.bitnami.com/bitnami
-    chart: postgresql
+    path: postgresql
     targetRevision: 16.2.0
     helm:
       releaseName: postgresql
